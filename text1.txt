@@ -8,3 +8,4 @@
 >>>>>>> 34070d33d53cf9c8aaf122e413872c8ed2efa2d9
 
 logo alignment is centered/solve
+new line is added in Resolve conflict branch
